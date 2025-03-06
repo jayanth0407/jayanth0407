@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayanth Kumar </h1>
 <!-- ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif) -->
-<img align='center' alt='coding img' width='50%' src='https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif'>
+<img align='center' alt='coding img' width='80%' src='https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif'>
 
 <h3 align="center">------------Full Stack Developer------------</h3>
 <img align='center' alt='coding img' width='50%' src='https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif'>
